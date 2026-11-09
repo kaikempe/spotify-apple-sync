@@ -1,0 +1,10 @@
+.spotify-profile/
+node_modules/
+state.json
+sync.log
+spotify_error.png
+.spotify_job.json
+alerts.json
+config.json
+__pycache__/
+*.tmp

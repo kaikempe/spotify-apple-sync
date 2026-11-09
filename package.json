@@ -1,0 +1,14 @@
+{
+  "name": "spotify-apple-sync",
+  "version": "1.0.0",
+  "description": "Keeps a Spotify playlist and an Apple Music playlist in sync, both ways, on macOS.",
+  "scripts": {},
+  "keywords": [],
+  "author": "Kai Kempe",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.56.1"
+  },
+  "private": true
+}
